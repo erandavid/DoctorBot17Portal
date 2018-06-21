@@ -1,0 +1,41 @@
+@html.extend('layout', function(model) {   
+    @html.block('content', function(model){
+
+<div>
+    <h1>APPLICATION PRIVACY STATEMENT</h1><br/>
+    
+    This privacy statement (“Privacy Statement”) applies to the treatment of personally identifiable information submitted by, or otherwise obtained from, you in connection with the associated application (“Application”). The Application is provided by DoctorBot17.  By using or otherwise accessing the Application, you acknowledge that you accept the practices and policies outlined in this Privacy Statement.
+
+    <h2>WHAT PERSONAL INFORMATION DOES DoctorBot17 COLLECT?</h2> 
+
+    We collect the following types of information from our users:
+
+    Personal Information You Provide to Us:
+    We may receive and store any information you submit to the Application (or otherwise authorize us to obtain – such as, from (for example) your Facebook account). The types of personal information collected may include your full name, email address, gender, IP address, browser information, username, demographic information, and any other information necessary for us to provide the Application services.
+
+    <h2>HOW DOES DoctorBot17 USE THE INFORMATION IT COLLECTS?</h2>
+
+    DoctorBot17 uses the information described in this Privacy Statement (i) internally, to analyze, develop and improve its products and services, and (ii) as set forth below in the “Will DoctorBot17 Share any of the personal information it Collects” section below.
+
+    <h2>WILL DoctorBot17 SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?</h2>
+
+    Personal information about our users is an integral part of our business. We neither rent nor sell your personal information to anyone.
+
+    <h2>CONDITIONS OF USE</h2>
+
+    If you decide to use or otherwise access the Application, your use/access and any possible dispute over privacy is subject to this Privacy Statement and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
+
+    <h2>COOKIES</h2>
+
+    Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive. Like many sites, we use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
+
+    <h2>CHANGES TO THIS PRIVACY STATEMENT</h2>
+
+    DoctorBot17 may amend this Privacy Statement from time to time. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used. If we make changes in the way we use personal information, we will notify you by posting an announcement on our Site or sending you an email. Users are bound by any changes to the Privacy Statement when he or she uses or otherwise accesses the Application after such changes have been first posted.
+
+</div>
+
+
+    })
+})
+

@@ -1,0 +1,12 @@
+<!doctype html>
+
+<html>
+<head>
+    <title>@model.title</title>
+</head>
+    
+<body>
+    @html.block("content")
+</body>
+
+</html>

@@ -1,0 +1,38 @@
+@html.extend('layout', function(model) {   
+    @html.block('content', function(model){
+
+<div>
+    <h1>TERMS OF SERVICE             ("Terms")</h1><br />
+
+    Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the http:// http://DoctorBot17.azurewebsites.net website (the "Service") operated by My Company (change this) ("us", "we", or "our").
+
+    Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
+
+    By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.
+
+    <h2>TERMINATION</h2>
+
+    We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms. All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+
+    <h2>CONTENT</h2>
+
+    Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material ("Content"). The Service has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that DoctorBot17 shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
+
+    <h2>CHANGES</h2>
+
+    We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 (change this) days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+
+    <br /><br />
+
+    <h2>QUESTIONS OR CONCERNS</h2><br />
+
+    If you have any questions or concerns regarding privacy on our Website please contact us. We will make every effort to resolve your concerns.
+    <br /><br />
+    <h3>Effective Date: June 10, 2018</h3>
+
+</div>
+
+
+    })
+})
+
